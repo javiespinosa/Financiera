@@ -17,6 +17,8 @@ $dias_transf='127';
 $dias_vencidos01='127';
 
 
+
+
 include ("../../modulos/cobranza/conexion/conn.php");
 $query01="SELECT 
 		 credito.id as idcredito,
